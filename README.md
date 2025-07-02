@@ -5,6 +5,12 @@ Model ini digunakan untuk mengubah teks menjadi gambar secara otomatis, cocok un
 
 ---
 
+### Cara menjalankan model text2img_lyra
+```bash
+
+npx create-replicate --model=androidbutut/text2img_lyr4
+```
+
 ### 🔮 Contoh Prompt
 
 "Seorang gadis kecil duduk di bawah pohon sakura, dikelilingi cahaya senja"
