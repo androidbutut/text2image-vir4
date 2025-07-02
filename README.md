@@ -47,7 +47,7 @@ diffusers library dari Hugging Face
 torch + CUDA (untuk percepatan GPU)
 ```
 
-## 📚 Paper Referensi
+📚 Paper Referensi
 
 ```
 - [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)
