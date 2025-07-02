@@ -86,6 +86,3 @@ Penggunaan untuk konten eksplisit atau ilegal dilarang.
 
 > Dibuat dengan ✨ oleh @androidbutut
 
-
-
----
