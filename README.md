@@ -32,20 +32,20 @@ Body JSON
     "prompt": "Seekor naga putih terbang di atas gunung es"
   }
 }
-
+```
 
 ---
 
 📦 Teknologi
 
 Model ini menggunakan:
-
+```
 Stable Diffusion v1.5
 
 diffusers library dari Hugging Face
 
 torch + CUDA (untuk percepatan GPU)
-
+```
 
 
 ---
@@ -53,11 +53,11 @@ torch + CUDA (untuk percepatan GPU)
 🧠 Untuk Pengembang
 
 Struktur file:
-
+```
 ├── generate.py         # Entrypoint model
 ├── replicate.yaml      # Konfigurasi Replicate
 └── requirements.txt    # Dependensi Python
-
+```
 
 ---
 
