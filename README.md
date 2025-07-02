@@ -11,6 +11,28 @@ Model ini digunakan untuk mengubah teks menjadi gambar secara otomatis, cocok un
 npx create-replicate --model=androidbutut/text2img_lyr4
 ```
 
+### Penggunaan node.js
+
+```node
+const output = await replicate.run(
+  "androidbutut/text2img_lyr4:c1126cda97a58ff1f439abaaf2933876a072d8848a2de2ac46db32cd40ae0635",
+  {
+    input: {}
+  }
+);
+
+console.log(output);
+```
+
+### Penggunaan phyton
+```py
+output = replicate.run(
+    "androidbutut/text2img_lyr4:c1126cda97a58ff1f439abaaf2933876a072d8848a2de2ac46db32cd40ae0635",
+    input={}
+)
+print(output)
+```
+
 ### 🔮 Contoh Prompt
 
 "Seorang gadis kecil duduk di bawah pohon sakura, dikelilingi cahaya senja"
