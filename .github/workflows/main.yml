@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       model_name:
-        description: 'Enter the model name, like "androidbutut/text2image-vir4"'
+        description: 'Enter the model name, like "androidbutut/text2img_lyr4"'
         required: true
 
 jobs:
