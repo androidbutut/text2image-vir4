@@ -1,4 +1,4 @@
-name: androidbutut/text2image-lyra
+name: androidbutut/text2image-vir4
 description: Generate gambar dari teks untuk Lyra Storybook
 runtime: python3.10
 entrypoint: python generate.py
@@ -7,4 +7,4 @@ input:
   prompt:
     type: string
     required: true
-    description: Deskripsi gambar Lyra
+    description: Deskripsi gambar untuk Lyra
