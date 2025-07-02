@@ -1,11 +1,11 @@
-# vir4
-# 🎨 Text-to-Image vir4 Model (by @androidbutut)
+
+## 🎨 Text-to-Image vir4 Model (by @androidbutut)
 
 Model ini digunakan untuk mengubah teks menjadi gambar secara otomatis, cocok untuk keperluan seperti **AI Storybook**, visualisasi narasi, dan kebutuhan kreatif lainnya.
 
 ---
 
-## 🔮 Contoh Prompt
+### 🔮 Contoh Prompt
 
 "Seorang gadis kecil duduk di bawah pohon sakura, dikelilingi cahaya senja"
 
@@ -13,7 +13,7 @@ Akan menghasilkan gambar AI berdasarkan deskripsi tersebut.
 
 ---
 
-## 🚀 Cara Pakai (API)
+### 🚀 Cara Pakai (API)
 
 ### Endpoint
 ```http
