@@ -64,7 +64,11 @@ Struktur file:
 └── requirements.txt    # Dependensi Python
 ```
 
----
+### Push Model
+```
+cog login
+cog push r8.im/<your-username>/<your-model-name>
+```
 
 🖼️ Output
 
