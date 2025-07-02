@@ -18,14 +18,14 @@ Akan menghasilkan gambar AI berdasarkan deskripsi tersebut.
 ### Endpoint
 ```http
 POST https://api.replicate.com/v1/predictions
-
+```
 Headers
-
+```
 Authorization: Token YOUR_REPLICATE_API_TOKEN
 Content-Type: application/json
-
+```
 Body JSON
-
+```
 {
   "version": "androidbutut/text2image-lyra",
   "input": {
@@ -47,7 +47,12 @@ diffusers library dari Hugging Face
 torch + CUDA (untuk percepatan GPU)
 ```
 
+## 📚 Paper Referensi
 
+```
+- [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)
+- Penulis: Robin Rombach, Andreas Blattmann, dkk.
+```
 ---
 
 🧠 Untuk Pengembang
